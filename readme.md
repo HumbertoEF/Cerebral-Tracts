@@ -9,9 +9,9 @@ This code allows to segment the Posterior Arcuate, the Middle Longitudinal Fasci
 
 [![NSF-BCS-1734853](https://img.shields.io/badge/NSF_BCS-1734853-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1734853)
 
-[![NSF-AOC-1916518](https://img.shields.io/badge/NSF-AOC-1916518-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1916518)
+[![NSF-AOC-1916518](https://img.shields.io/badge/NSF_AOC-1916518-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1916518)
 
-[![NIH-NIMH-5T32MH103213](https://img.shields.io/badge/NIH-NIMH-5T32MH103213-blue.svg)](http://grantome.com/grant/NIH/T32-MH103213-04)
+[![NIH-NIMH-5T32MH103213](https://img.shields.io/badge/NIH_NIMH-5T32MH103213-blue.svg)](http://grantome.com/grant/NIH/T32-MH103213-04)
 
 ### References
 If you use this code please cite the following articles.
