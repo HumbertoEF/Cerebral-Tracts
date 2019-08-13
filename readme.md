@@ -15,7 +15,7 @@ If you use this code please cite the following articles.
 - Pestilli, F., Yeatman, J. Rokem, A., Kay, K. and Wandell, B. (2014) Evaluation and statistical inference in living connectomes. Nature Methods. DOI:10.1038/nmeth.3098.
 
 ### Dependencies
-- Matlab 2018 or later: https://www.mathworks.com/products/matlab.html
+  - Matlab 2018 or later: https://www.mathworks.com/products/matlab.html
   - VISTASOFT: https://github.com/vistalab/vistasoft
   - ENCODE: https://github.com/brain-life/encode
   - MBA: https://github.com/francopestilli/mba
